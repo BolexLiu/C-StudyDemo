@@ -30,6 +30,7 @@ int main()
 		cout<<"enum:     "<<c<<endl;
 		
 		cout<<"外部的sss: "<<s<<endl;
+
 		printf("123111");  //c 语言的函数测试
 	return 0;
 
