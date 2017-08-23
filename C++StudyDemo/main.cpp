@@ -20,17 +20,16 @@ int main()
 	cout<<"float Size:     "<<sizeof(float)<<endl;
 	cout<<"wchar_t Size:     "<<sizeof(wchar_t)<<endl;
 
-	cout<<"wchar_t Size:     "<<test::funss() <<endl;
-
 	    enum color{ red,green=8,blue};  //枚举 注意当green=8的时候，blue为9
-
 		int c=blue;
 		cout<<"enum:     "<<c<<endl;
 		c=red;
 		cout<<"enum:     "<<c<<endl;
 		
-		cout<<"外部的sss: "<<s<<endl;
 
+
+		cout<<"外部的sss: "<<s<<endl;
+		cout<<"wchar_t Size:     "<<test::funss() <<endl;
 		printf("123111");  //c 语言的函数测试
 	return 0;
 
