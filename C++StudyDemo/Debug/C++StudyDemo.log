@@ -1,11 +1,11 @@
-﻿生成启动时间为 2017-08-24 星期四 18:43:05。
+﻿生成启动时间为 2017-08-25 星期五 11:00:39。
      1>项目“c:\Users\Ethan\Documents\Visual Studio 2010\Projects\C++StudyDemo\C++StudyDemo\C++StudyDemo.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
-         正在创建“Debug\C++StudyDemo.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+         正在对“Debug\C++StudyDemo.unsuccessfulbuild”执行 Touch 任务。
        ClCompile:
          C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>c:\users\ethan\documents\visual studio 2010\projects\c++studydemo\c++studydemo\main.cpp(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\ethan\documents\visual studio 2010\projects\c++studydemo\c++studydemo\main.cpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
        ManifestResourceCompile:
          所有输出均为最新。
@@ -26,4 +26,4 @@
 
 生成成功。
 
-已用时间 00:00:00.59
+已用时间 00:00:00.58
